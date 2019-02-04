@@ -137,7 +137,7 @@ public class EvaluationService {
 	 * 
 	 * 3 + 2*1 + 2*3 + 2 + 1 = 3 + 2 + 6 + 3 = 5 + 9 = 14
 	 * 
-	 * @param string
+	 * @param string 
 	 * @return
 	 */
 	public int getScrabbleScore(String string) {
